@@ -323,7 +323,7 @@ section.experience .card-box .card:hover h3 {
 .skill-lv {
   background: var(--black);
   width: 50%;
-  height: 3px;
+  height: 2px;
 }
 .work {
   background: var(--red);
